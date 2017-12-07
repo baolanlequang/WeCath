@@ -1,6 +1,6 @@
 # WeCath
 
-## Hướng dẫn cài đăt
+## Hướng dẫn cài đặt
 **1. Máy dùng hệ điều hành Windows:**
 
 Bước 1: Tải file WeCath-Windows.exe về máy của bạn
